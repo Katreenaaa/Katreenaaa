@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Katrina</h1>
 <h3 align="center">An aspiring frontend developer from Nigeria 🇳🇬</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=katreenaaa&theme=flat&no-frame=true" alt="katreenaaa" />
-  </a>
-</p>
-
 - 🔭 I’m currently working on **a personal frontend portfolio and practice projects**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, and modern frontend tools**
