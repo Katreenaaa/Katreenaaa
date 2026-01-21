@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katrina</h1>
-<h3 align="center">An aspiring frontend developer from Nigeria 🇳🇬</h3>
+<h3 align="center">An aspiring fullstack developer from Nigeria 🇳🇬</h3>
 
 - 🔭 I’m currently working on **a personal frontend portfolio and practice projects**
 
