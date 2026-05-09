@@ -13,6 +13,7 @@
 - 📫 How to reach me **katrinaemegbagha@gmail.com**
 
 - ⚡ Fun fact **I love drawing and painting (especially realism) and I also enjoy cooking 🎨🍳**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,9 +22,10 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Katrina Emegbagha"
       height="30"
-      width="30" />
+      width="40" />
   </a>
 </p>
+
 
 <h3>💻 Tech Stack </h3>
 
