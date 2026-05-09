@@ -15,17 +15,17 @@
 - ⚡ Fun fact **I love drawing and painting (especially realism) and I also enjoy cooking 🎨🍳**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/katrina-emegbagha" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Katrina Emegbagha"
       height="30"
-      width="40" />
+      width="30" />
   </a>
 </p>
 
-💻<h3> Tech Stack </h3>
+<h3>💻 Tech Stack </h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
